@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 10px;
+}
+
+header {
+    background-color: #f5d987;
+    text-align: center;
+}
+
+main {
+    background-color: lightcyan;
+}
+
+footer {
+    background-color: #f5d987;
+    text-align: center;
+}
+.card {
+    text-align: center;
+}
+
+#employee {
+    display: flex;
+    flex-wrap: wrap;
+}
