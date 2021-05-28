@@ -1,5 +1,8 @@
   # team-profile-creator
-
+  Screen Shot 2021-05-27 at 10.01.53 PM![image](https://user-images.githubusercontent.com/79678327/119928180-4f091080-bf38-11eb-9366-f15f58d27354.png)
+  
+  https://youtu.be/6PfC-8l4L5k
+  
   ## Table of Contents
   * [Description](#description)
   * [Installation](#installation)
