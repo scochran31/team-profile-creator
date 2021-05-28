@@ -28,6 +28,11 @@ function boilerplate() {
             ${employeeArray.join('')}
             </div>
         </main>
+        <footer>
+        <h2 class="title is-4">&#0169
+            <a href="https://github.com/scochran31">scochran31</a>
+        </h2>
+    </footer>
     </body>
     
     </html>`
