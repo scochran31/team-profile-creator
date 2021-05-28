@@ -13,6 +13,10 @@ main {
     background-color: lightcyan;
 }
 
+footer {
+    background-color: #f5d987;
+    text-align: center;
+}
 .card {
     text-align: center;
 }
